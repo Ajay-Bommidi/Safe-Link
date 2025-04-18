@@ -29,8 +29,8 @@ FEEDBACK_CSV = os.path.join(DATA_DIR, "feedback.csv")
 THRESHOLD_PATH = os.path.join(MODEL_DIR, "optimal_threshold.pkl")
 
 # API Keys (Replace with secure environment variables in production)
-VIRUSTOTAL_API_KEY = "2bf1a44e9e890d11b7c2619469d7e0019021621b27af50bf0ab540d4bb536e3a"
-GOOGLE_SAFE_BROWSING_API_KEY = "AIzaSyDljfDAes7YBMvV9pNGAtzPq7Du00l1kj4"  # Verify this key is correct
+VIRUSTOTAL_API_KEY = "API KEY"
+GOOGLE_SAFE_BROWSING_API_KEY = "API KEY"  # Verify this key is correct
 VIRUS_TOTAL_URL = "https://www.virustotal.com/api/v3/urls"
 VIRUS_TOTAL_ANALYSIS_URL = "https://www.virustotal.com/api/v3/analyses"
 GOOGLE_SAFE_BROWSING_URL = "https://safebrowsing.googleapis.com/v4/threatMatches:find"
