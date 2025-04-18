@@ -76,5 +76,5 @@ SafeLink follows a multi-stage detection pipeline:
 1. **Clone the repository**
 
 ```bash
-git clone https://github.com/your-username/SafeLink.git
+git clone https://github.com/Ajay-Bommidi/Safe-Link.git
 cd SafeLink
